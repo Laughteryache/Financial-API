@@ -1,6 +1,5 @@
 .env
 .flake8
 .venv
-*.png
 
 __pycache__/
