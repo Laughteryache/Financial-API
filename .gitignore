@@ -1,5 +1,5 @@
 .env
-.toml
+*.toml
 .flake8
 .venv
 *.png
