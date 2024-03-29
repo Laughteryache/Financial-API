@@ -1,6 +1,4 @@
-.gitignore
 .env
-*.toml
 .flake8
 .venv
 *.png
