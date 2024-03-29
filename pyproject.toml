@@ -1,0 +1,13 @@
+[tool.black]
+line-length = 79
+target-version = ['py311']
+
+[tool.black]
+profile = "black"
+
+[tool.flake]
+check_diff = true
+import = ['sqlalchemy', 'src']
+
+[tool.pyright]
+include = ["src"]
